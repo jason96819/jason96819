@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with king of the data analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: jjs1608@naver.com
-- ⚡ Fun fact: gimoring
+- ⚡ Fun fact: Life is too short, You need python.
